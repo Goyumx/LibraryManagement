@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/impl/BookServiceImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dto/BookBorrowDto.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/impl/BookDaoImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/BookBorrowDao.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/entity/BookBorrowEntity.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/CrudDao.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/BookCategoryService.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/impl/BookBorrowDetailDaoImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/MemberDao.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/controller/BookCategoryController.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/impl/MemberDaoImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/ServiceFactory.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/CrudUtil.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/entity/BookEntity.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/impl/BookCategoryServiceImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/impl/BookBorrowDaoImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/entity/BookBorrowDetailEntity.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/SuperService.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dto/MemberDto.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/MemberService.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/controller/BookProcess.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/impl/BookCategoryDaoImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/impl/MemberServiceImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/entity/MemberEntity.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/BookBorrowDetailDao.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dto/BookDto.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/db/DBConnection.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/SuperDao.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/BookService.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/BookCategoryDao.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/a/test.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/BookProcessService.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/DaoFactory.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/controller/MemberController.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/controller/BookController.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dto/BookBorrowDetailDto.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dao/custom/BookDao.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/service/custom/impl/BookProcessServiceImpl.java</file>
+            <file>file:/D:/IJSE/LibraryManagement/src/dto/BookCategoryDto.java</file>
+        </group>
+    </open-files>
+</project-private>
